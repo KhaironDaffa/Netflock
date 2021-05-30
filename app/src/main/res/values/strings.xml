@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Netflock</string>
+
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="dateline">DateLine</string>
+    <string name="movies">Movies</string>
+    <string name="tv_shows">TV Shows</string>
+    <string name="title_activity_details">DetailsActivity</string>
+    <string name="home">Home</string>
+    <string name="imageDesc">Loading</string>
+    <string name="favorite">Favorite</string>
+    <string name="emptyFavMovies">No Favorite Movie At The Time</string>
+    <string name="emptyFavShows">No Favorite Shows At The Time</string>
+    <string name="title_favorite">Favorite</string>
+</resources>

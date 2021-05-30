@@ -1,0 +1,4 @@
+include ':app'
+rootProject.name = "Netflock"
+include ':core'
+include ':favorite'
