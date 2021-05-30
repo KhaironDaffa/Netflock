@@ -2,7 +2,7 @@
     <string name="app_name">Netflock</string>
 
     <string name="title">Title</string>
-    <string name="description">Description</string>
+    <string name="descriptions">Description</string>
     <string name="dateline">DateLine</string>
     <string name="movies">Movies</string>
     <string name="tv_shows">TV Shows</string>
